@@ -152,11 +152,11 @@ After clicking **Predict House Price**, the model estimates the selling price of
 
 ### Home Page
 
-> Add a screenshot here
+> ![Home Page](screenshots/homepage.png)
 
 ### Prediction Result
 
-> Add a screenshot here
+> ![Prediction Result](screenshots/pred.png)
 
 ---
 
