@@ -1,24 +1,24 @@
-# 🏡 House Price Prediction using Machine Learning
+#  House Price Prediction using Machine Learning
 
 A Machine Learning web application that predicts house prices based on **Living Area**, **Number of Bedrooms**, and **Number of Bathrooms** using the **Linear Regression** algorithm. The application is built with **Python**, **Scikit-learn**, and **Streamlit**.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project was developed as **Task 1** for the **Machine Learning Internship at Prodigy InfoTech**.
 
 The objective is to build a Linear Regression model capable of predicting house prices using three important features:
 
-- 🏠 Living Area (Square Feet)
-- 🛏 Number of Bedrooms
-- 🚿 Number of Bathrooms
+-  Living Area (Square Feet)
+-  Number of Bedrooms
+-  Number of Bathrooms
 
 The trained model is deployed as an interactive Streamlit web application.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Predict house prices instantly
 - Interactive Streamlit web application
@@ -31,7 +31,7 @@ The trained model is deployed as an interactive Streamlit web application.
 
 ---
 
-## 🧠 Machine Learning Workflow
+##  Machine Learning Workflow
 
 1. Data Collection
 2. Data Preprocessing
@@ -44,7 +44,7 @@ The trained model is deployed as an interactive Streamlit web application.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **Dataset:** Kaggle House Prices Dataset
 
@@ -66,7 +66,7 @@ Features Used:
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -79,7 +79,7 @@ Features Used:
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 | Metric | Value |
 |---------|-------|
@@ -90,7 +90,7 @@ Features Used:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 House-Price-Prediction/
@@ -108,12 +108,12 @@ House-Price-Prediction/
 
 ---
 
-## ▶️ Installation
+##  Installation
 
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/House-Price-Prediction.git
+git clone  https://github.com/chiragkaliyar-lgtm/PRODIGY_ML_01
 ```
 
 Move into the project directory
@@ -136,7 +136,7 @@ streamlit run app.py
 
 ---
 
-## 💻 Web Application
+##  Web Application
 
 The application allows users to enter:
 
@@ -148,7 +148,7 @@ After clicking **Predict House Price**, the model estimates the selling price of
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Home Page
 
@@ -160,7 +160,7 @@ After clicking **Predict House Price**, the model estimates the selling price of
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 During this project, I learned:
 
@@ -175,7 +175,7 @@ During this project, I learned:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Include more house features for better accuracy
 - Support multiple regression algorithms
@@ -185,15 +185,15 @@ During this project, I learned:
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
 **Chirag Kaliyar**
 
 Machine Learning Intern at **Prodigy InfoTech**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/chiragkaliyar-lgtm
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/chirag-kaliyar-837650305/
 
 ---
 
