@@ -113,7 +113,11 @@ House-Price-Prediction/
 Clone the repository
 
 ```bash
+<<<<<<< HEAD
 git clone  https://github.com/chiragkaliyar-lgtm/PRODIGY_ML_01
+=======
+git clone https://github.com/chiragkaliyar-lgtm/PRODIGY_ML_01
+>>>>>>> befc1b8 (Update README and add screenshots)
 ```
 
 Move into the project directory
@@ -184,6 +188,7 @@ During this project, I learned:
 - Add data visualizations and analytics dashboard
 
 ---
+
 
 ##  Developer
 
